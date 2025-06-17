@@ -2,7 +2,6 @@
 
 This project presents an interactive Power BI dashboard designed to analyze and visualize sales performance across various dimensions like Region, Segment, Category, and Sub-Category. The dashboard helps users quickly understand key trends, compare metrics, and make data-driven decisions.
 
-![Sales Dashboard Screenshot](dashboard_screenshot.png)
 
 ---
 
@@ -50,4 +49,6 @@ The dashboard offers a visual summary of business sales, providing stakeholders 
 - **Slicers & Filters** – To enable data-driven exploration
 
 ---
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
